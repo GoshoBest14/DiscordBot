@@ -91,7 +91,7 @@ const init = async () => {
 		}
 	});
 
-	client.login(token);
+	client.login('NTkxNTE1MDcxMzk4Njc0NDQy.XkkvHA.QprEMSlRBPiDV6BUbQb0y0PKHRc');
 
 
 };
